@@ -1,0 +1,1 @@
+# nodejs-gitignore-template00
